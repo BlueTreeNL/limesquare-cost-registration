@@ -65,5 +65,3 @@ with st.expander("Bekijk een overzicht van de geregistreerde kosten"):
     )
     df = df.astype({"Bedrag": "int"})
     st.dataframe(df)
-
-print("test")
