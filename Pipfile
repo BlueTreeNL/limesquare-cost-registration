@@ -6,7 +6,7 @@ name = "pypi"
 [packages]
 streamlit = "*"
 pandas = "*"
-psycopg2 = "*"
+psycopg2-binary = "*"
 protobuf = "==3.20.1"
 
 [dev-packages]
